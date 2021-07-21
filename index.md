@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "minima"
 author: Mervyn Tang
 time: 16:17
 ---
