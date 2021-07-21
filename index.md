@@ -1,6 +1,6 @@
 ---
 title: "Welcome to my blog"
-author: Mervyn Tang
+theme: minima
 ---
 
 I'm glad you are here. I plan to talk about ...
