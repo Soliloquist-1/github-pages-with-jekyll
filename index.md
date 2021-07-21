@@ -1,5 +1,5 @@
 ---
-title: "minima"
+title: minima
 author: Mervyn Tang
 time: 16:17
 ---
